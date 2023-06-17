@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mounikapalli
-- 👀 I’m interested in Data Analytic
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me https://www.linkedin.com/in/pallimounika/
