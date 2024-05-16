@@ -16,6 +16,8 @@
 
   
 ![Mounika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounikapalli&show_icons=true&theme=transparent)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mounikapalli&theme=transparent)](https://git.io/streak-stats)
 <!---
 mounikapalli/mounikapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
