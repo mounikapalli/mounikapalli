@@ -14,6 +14,7 @@
   [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.credly.com/badges/96ffa92d-7c02-44bc-a036-a02ef1f511c3/linked_in_profile)
   Completed the 8-course [Google Data Analytics Professional Certificate](https://www.credly.com/badges/96ffa92d-7c02-44bc-a036-a02ef1f511c3/linked_in_profile) program available on Coursera.org.
 
+![](https://komarev.com/ghpvc/?username=mounikapalli)
   
 ![Mounika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounikapalli&show_icons=true&theme=transparent)
 
